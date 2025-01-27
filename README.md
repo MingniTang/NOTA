@@ -1,2 +1,3 @@
 # NOTA
-Here is NOTA's anonymized repository containing the datasets, model, and code.
+Dataset:https://huggingface.co/datasets/MYTH-Lab/NOTA-dataset
+Model:https://huggingface.co/MYTH-Lab/NotaGPT-7B
